@@ -68,7 +68,7 @@ git checkout -b feature/seu-nome
 ```
 
 Não sabe por onde começar?  
-→ Comece pela [trilha-01-fundamentos](../trilha-01-fundamentos).
+→ 🌟 Comece pela [trilha-01-fundamentos](https://github.com/Starlight-git-project/trilha-01-fundamentos).
 
 ---
 
