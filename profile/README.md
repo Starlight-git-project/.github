@@ -44,7 +44,7 @@ Boas práticas essenciais de Git para o dia a dia de quem trabalha com dados.
 Como trabalhar em equipe sem quebrar produção.  
 Branches · pull requests · code review · pre-commit hooks · secret scanning no CI
 
-### 📙 [trilha-03-infraestrutura](../trilha-03-infraestrutura)
+### 📙 [trilha-03-infraestrutura](https://github.com/Starlight-git-project/trilha-03-infraestrutura-organizacional)
 O que existe acima dos repositórios — e por que isso protege a empresa inteira.  
 GitHub Org · least privilege · políticas · audit log · SAML/OIDC (conceitos)
 
