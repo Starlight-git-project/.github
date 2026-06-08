@@ -36,7 +36,7 @@ A **Starlight Git Project** é uma organização open source com projetos educac
 
 ## Repositórios
 
-### 📘 [trilha-01-fundamentos](../trilha-01-fundamentos)
+### 📘 [trilha-01-fundamentos](https://github.com/Starlight-git-project/trilha-01-fundamentos)
 Boas práticas essenciais de Git para o dia a dia de quem trabalha com dados.  
 `.gitignore` · commits descritivos · variáveis de ambiente · estrutura de projeto
 
