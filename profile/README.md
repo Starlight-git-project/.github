@@ -40,7 +40,7 @@ A **Starlight Git Project** é uma organização open source com projetos educac
 Boas práticas essenciais de Git para o dia a dia de quem trabalha com dados.  
 `.gitignore` · commits descritivos · variáveis de ambiente · estrutura de projeto
 
-### 📗 [trilha-02-governanca](../trilha-02-governanca)
+### 📗 [trilha-02-governanca](https://github.com/Starlight-git-project/trilha-02-governanca)
 Como trabalhar em equipe sem quebrar produção.  
 Branches · pull requests · code review · pre-commit hooks · secret scanning no CI
 
