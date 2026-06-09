@@ -49,23 +49,12 @@ O que existe acima dos repositórios e por que isso protege a empresa inteira.
 GitHub Org · least privilege · políticas · audit log · SAML/OIDC (conceitos)
 
 ### 🚀 [projeto-pratico](https://github.com/orgs/Starlight-git-project/repositories)
-Desafio técnico completo simulando um ambiente de engenharia de dados.  
-Fork · branches · commits · PR · code review · entrega com as três camadas aplicadas
+Desafio técnico completo de engenharia e Análise de dados.  
+Fork · branches · commits · PR · code review 
+
+💜Disponível para alunos.
 
 ---
-
-## Como começar
-
-```bash
-# 1. Faça fork do projeto-pratico
-# 2. Clone o seu fork
-git clone https://github.com/SEU-USUARIO/projeto-pratico.git
-
-# 3. Crie sua branch com seu nome
-git checkout -b feature/seu-nome
-
-# 4. Siga o README do projeto-pratico
-```
 
 Não sabe por onde começar?  
 → 🌟 Comece pela [trilha-01-fundamentos](https://github.com/Starlight-git-project/trilha-01-fundamentos).
