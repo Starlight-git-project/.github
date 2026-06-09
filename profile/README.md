@@ -17,7 +17,7 @@
 
 ## O que é a Starlight?
 
-A **Starlight Git Project** é uma organização open source com projetos educacionais para analistas e engenheiras de dados que precisam aprender Git e GitHub com profundidade — não só os comandos básicos, mas as três camadas que separam quem aprende na faculdade de quem entrega no mercado.
+A **Starlight Git Project** é uma organização open source com projetos educacionais para analistas e engenheiras de dados que precisam aprender Git e GitHub com profundidade, não só os comandos básicos, mas as três camadas que separam quem aprende e pratica no dia a dia.
 
 > Credenciais vazadas no GitHub. Dados de produção apagados.  
 > Isso acontece. E acontece com quem não aprendeu as três camadas.
@@ -30,7 +30,7 @@ A **Starlight Git Project** é uma organização open source com projetos educac
 |--------|-------------------|
 | ⭐ **1 - Boas práticas individuais** | Commits semânticos, `.gitignore` correto, variáveis de ambiente, estrutura de projeto |
 | ⭐⭐ **2 - Governança de pipeline** | Branches, pull requests, code review, pre-commit hooks, secret scanning |
-| ⭐⭐⭐ **3 — Infraestrutura organizacional** | GitHub Orgs, permissões, políticas de repositório, least privilege, audit log |
+| ⭐⭐⭐ **3 - Infraestrutura organizacional** | GitHub Orgs, permissões, políticas de repositório, least privilege, audit log |
 
 ---
 
@@ -52,20 +52,8 @@ GitHub Org · least privilege · políticas · audit log · SAML/OIDC (conceitos
 Desafio técnico completo simulando um ambiente real de engenharia de dados.  
 Fork · branches · commits · PR · code review · entrega com as três camadas aplicadas
 
+💜Disponível para alunos
 ---
-
-## Como começar
-
-```bash
-# 1. Faça fork do projeto-pratico
-# 2. Clone o seu fork
-git clone https://github.com/SEU-USUARIO/projeto-pratico.git
-
-# 3. Crie sua branch com seu nome
-git checkout -b feature/seu-nome
-
-# 4. Siga o README do projeto-pratico
-```
 
 Não sabe por onde começar?  
 → 🌟 Comece pela [trilha-01-fundamentos](https://github.com/Starlight-git-project/trilha-01-fundamentos).
