@@ -1,6 +1,8 @@
 <!-- .github/profile/README.md -->
 <!-- Org: starlight-git-project -->
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/44563d0d-2a5f-46e4-8392-e80f64570aed" width="300"/>
+</div>
 <div align="center">
 
 ⭐ **Starlight Git Project**
@@ -17,7 +19,7 @@
 
 ## O que é a Starlight?
 
-A **Starlight Git Project** é uma organização open source com projetos educacionais para analistas e engenheiras de dados que precisam aprender Git e GitHub com profundidade, não só os comandos básicos, mas as três camadas que separam quem aprende e pratica no dia a dia.
+Seja bem-vindo! A **Starlight Git Project** é uma org com projetos educacionais para analistas e engenheiras de dados que precisam aprender Git e GitHub com profundidade, não só os comandos básicos, mas as três camadas que separam quem aprende e pratica no dia a dia.
 
 > Credenciais vazadas no GitHub. Dados de produção apagados.  
 > Isso acontece. E acontece com quem não aprendeu as três camadas.
