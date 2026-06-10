@@ -1,6 +1,8 @@
 <!-- .github/profile/README.md -->
 <!-- Org: starlight-git-project -->
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/44563d0d-2a5f-46e4-8392-e80f64570aed" width="400"/>
+</div>
 <div align="center">
 
 ⭐ **Starlight Git Project**
