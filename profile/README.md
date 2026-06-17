@@ -50,8 +50,9 @@ Branches · pull requests · code review · pre-commit hooks · secret scanning 
 O que existe acima dos repositórios — e por que isso protege a empresa inteira.  
 GitHub Org · least privilege · políticas · audit log · SAML/OIDC (conceitos)
 
-### 🚀 [projeto-pratico](https://github.com/orgs/Starlight-git-project/repositories)
-Desafio técnico completo simulando um ambiente real de engenharia de dados.  
+### 🚀 [projeto-pratico-01](https://github.com/orgs/Starlight-git-project/repositories)
+### 🚀 [projeto-pratico-02](https://github.com/Starlight-git-project/neopix-dataops-pipeline)
+Desafios técnicos completo de engenharia de dados.  
 Fork · branches · commits · PR · code review · entrega com as três camadas aplicadas
 
 💜Disponível para alunos
