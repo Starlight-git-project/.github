@@ -52,6 +52,8 @@ GitHub Org · least privilege · políticas · audit log · SAML/OIDC (conceitos
 
 ### 🚀 [projeto-pratico-01](https://github.com/orgs/Starlight-git-project/repositories)
 ### 🚀 [projeto-pratico-02](https://github.com/Starlight-git-project/neopix-dataops-pipeline)
+### 🚀 [Projeto-prático -03](https://github.com/Starlight-git-project/olist-analytics-conversacional)
+
 Desafios técnicos completo de engenharia de dados.  
 Fork · branches · commits · PR · code review · entrega com as três camadas aplicadas
 
