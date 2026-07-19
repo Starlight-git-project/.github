@@ -81,6 +81,35 @@ Esta é uma organização open source. PRs dos alunos são bem-vindos.
 Antes de contribuir, leia o `CONTRIBUTING.md` do repositório que deseja alterar.
 
 ---
+<table>
+<tr>
+<td width="140" align="center">
+
+<img src="https://github.com/user-attachments/assets/a419ad13-7070-438a-958f-b8fedb61d326" width="120" alt="GitHub Star Badge"/>
+
+</td>
+<td valign="top">
+
+## ⭐ Nominate a Star
+
+💡 Ajude a reconhecer meu trabalho open source!
+
+🚀 Se você gosta dos meus projetos de código aberto, considere me indicar para o programa **GitHub Stars**.
+
+🌐 O programa destaca pessoas que contribuem ativamente com a comunidade open source no GitHub.
+
+🔗 **Indique aqui:**  
+https://stars.github.com/nominate/
+
+### Sugestão
+
+> *I nominate **@regimaria** as a GitHub Star because she consistently shares her knowledge, creates open-source projects, and helps women  learn Data Engineering. Her contributions have had a positive impact on the community.*
+
+🌟 Muito obrigado pelo apoio! 🙌
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
